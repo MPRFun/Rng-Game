@@ -1,1 +1,1 @@
-print('fixing')
+loadstring(gam:HttpGet('https://raw.githubusercontent.com/MPRFun/Rng-Game/main/RNG%20Legend%20(UPDATED).txt'))()
